@@ -6,3 +6,5 @@ transform/
 *.csv
 *.json
 *.jar
+openjdk-*.tar.gz
+jdk-*/
