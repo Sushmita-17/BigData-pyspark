@@ -1,0 +1,8 @@
+venv/
+jdk-*/
+extract/
+transform/
+*.parquet
+*.csv
+*.json
+*.jar
