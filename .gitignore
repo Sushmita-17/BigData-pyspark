@@ -8,3 +8,5 @@ transform/
 *.jar
 openjdk-*.tar.gz
 jdk-*/
+openjdk-*.tar.gz
+jdk-*/
