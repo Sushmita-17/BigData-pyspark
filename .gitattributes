@@ -3,3 +3,9 @@
 *.json filter=lfs diff=lfs merge=lfs -text
 *.jar filter=lfs diff=lfs merge=lfs -text
 openjdk-17.0.2_linux-x64_bin.tar.gz filter=lfs diff=lfs merge=lfs -text
+extract/tracks.csv filter=lfs diff=lfs merge=lfs -text
+extract/fixed_da.json filter=lfs diff=lfs merge=lfs -text
+extract/artists.csv filter=lfs diff=lfs merge=lfs -text
+transform/stage3/recommendations_exploded/*.parquet filter=lfs diff=lfs merge=lfs -text
+venv/lib/python3.12/site-packages/pyspark/jars/rocksdbjni-8.3.2.jar filter=lfs diff=lfs merge=lfs -text
+jdk-17.0.2/lib/modules filter=lfs diff=lfs merge=lfs -text
